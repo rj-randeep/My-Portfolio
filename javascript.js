@@ -268,7 +268,7 @@ function initTypingEffect() {
     if (!subtitle) return;
     
     const originalText = subtitle.textContent;
-    const words = ['Business Analytics Professional', 'Technology Enthusiast', 'API Integration Expert', 'Data-Driven Problem Solver'];
+    const words = ['Web Development Enthusiast', 'Digital Solutions Creator', 'Technology Enthusiast', 'UI/UX Learner', 'Data-Driven Problem Solver', 'Database Handling Knowledge'];
     let currentWordIndex = 0;
     let currentCharIndex = 0;
     let isDeleting = false;
